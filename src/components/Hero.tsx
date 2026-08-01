@@ -85,11 +85,11 @@ export default function Hero() {
 
         {/* Name */}
         <h1
-          className="justify-center font-bebas text-[clamp(4rem,12vw,9rem)] leading-none tracking-wider mb-4 animate-fade-in-up opacity-0"
-          style={{ animationDelay: '0.3s', animationFillMode: 'forwards' }}
-        >
-          <span className="text-white">VISHAL</span>
-          <span className="text-[#E50914] ml-4">CHAUDHARY</span>
+            className="flex items-center justify-center whitespace-nowrap font-bebas text-[clamp(2.2rem,9vw,9rem)] leading-none tracking-wide mb-4 animate-fade-in-up opacity-0"
+            style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
+            >
+            <span className="text-white">VISHAL</span>
+            <span className="text-[#E50914] ml-2 sm:ml-4">CHAUDHARY</span>
         </h1>
 
         {/* Typewriter */}
