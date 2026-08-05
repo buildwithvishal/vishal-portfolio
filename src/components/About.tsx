@@ -2,9 +2,9 @@ import { useReveal } from '@/hooks/useIntersectionObserver';
 import { MapPin, GraduationCap, Code, Trophy, Award } from 'lucide-react';
 
 const stats = [
-  { value: 'Specialist', label: 'Codeforces (Max 1456)', icon: Trophy },
-  { value: '200+', label: 'Problems Solved', icon: Code },
-  { value: '2★', label: 'CodeChef (Max 1553)', icon: Award },
+  { value: 'Specialist', label: 'Codeforces (Max 1467)', icon: Trophy },
+  { value: '300+', label: 'Problems Solved', icon: Code },
+  { value: '3★', label: 'CodeChef (Max 1639)', icon: Award },
   { value: '98.67%', label: 'JEE Main Percentile', icon: GraduationCap },
 ];
 
