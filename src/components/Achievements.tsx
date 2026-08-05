@@ -5,7 +5,7 @@ const platforms = [
   {
     name: 'Codeforces',
     handle: 'vishalwillhandle',
-    rating: '1456',
+    rating: '1467',
     rank: 'Specialist (Max)',
     href: 'https://codeforces.com/profile/vishalwillhandle',
     icon: TrendingUp,
@@ -27,8 +27,8 @@ const platforms = [
   {
     name: 'CodeChef',
     handle: 'vishalnotdone',
-    rating: '1553',
-    rank: '2★ (Max)',
+    rating: '1639',
+    rank: '3★ (Max)',
     href: 'https://www.codechef.com/users/vishalnotdone',
     icon: Trophy,
     color: 'text-green-400',
@@ -40,22 +40,22 @@ const platforms = [
 const achievements = [
   {
     title: 'Codeforces Specialist',
-    detail: 'Achieved Specialist rank with a maximum rating of 1456 on Codeforces.',
+    detail: 'Achieved Specialist rank with a maximum rating of 1467 on Codeforces.',
     icon: Award,
   },
   {
-    title: 'CodeChef 2★',
-    detail: 'Reached 2★ rating with a maximum of 1553 on CodeChef.',
+    title: 'CodeChef 3★',
+    detail: 'Reached 3★ rating with a maximum of 1639 on CodeChef.',
     icon: Trophy,
   },
   {
-    title: '200+ DSA Problems Solved',
-    detail: 'Solved 200+ problems across LeetCode, Codeforces, and CodeChef covering all core topics.',
+    title: '300+ DSA Problems Solved',
+    detail: 'Solved 300+ problems across LeetCode, Codeforces, and CodeChef covering all core topics.',
     icon: Medal,
   },
   {
-    title: 'Global Rank 586 — CodeChef Starters 244',
-    detail: 'Achieved a global rank of 586 in CodeChef Starters 244 contest.',
+    title: 'Global Rank 87 — CodeChef Starters 250',
+    detail: 'Achieved a global rank of 87 in CodeChef Starters 250 contest.',
     icon: Flag,
   },
   {
