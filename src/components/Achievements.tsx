@@ -63,6 +63,11 @@ const achievements = [
     detail: 'Scored 98.67 percentile in JEE Main and qualified for JEE Advanced.',
     icon: Star,
   },
+  {
+    title: 'Global Rank 513 — CodeChef Starters 244',
+    detail: 'Achieved a global rank of 513 in CodeChef Starters 244 contest.',
+    icon: Flag,
+  },
 ];
 
 export default function Achievements() {
