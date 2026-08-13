@@ -108,7 +108,7 @@ export default function Hero() {
         >
            B.Tech CSE & AI @ IIIT Bhopal · Codeforces Specialist (1467)
           <br />
-          · CodeChef 3★ (1639) · 300+ DSA Problems
+          · CodeChef 3★ (1706) · 300+ DSA Problems
         </p>
 
         {/* CTA Buttons */}

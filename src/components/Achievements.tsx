@@ -27,7 +27,7 @@ const platforms = [
   {
     name: 'CodeChef',
     handle: 'vishalnotdone',
-    rating: '1639',
+    rating: '1707',
     rank: '3★ (Max)',
     href: 'https://www.codechef.com/users/vishalnotdone',
     icon: Trophy,
@@ -45,7 +45,7 @@ const achievements = [
   },
   {
     title: 'CodeChef 3★',
-    detail: 'Reached 3★ rating with a maximum of 1639 on CodeChef.',
+    detail: 'Reached 3★ rating with a maximum of 1706 on CodeChef.',
     icon: Trophy,
   },
   {
@@ -64,8 +64,8 @@ const achievements = [
     icon: Star,
   },
   {
-    title: 'Global Rank 513 — CodeChef Starters 244',
-    detail: 'Achieved a global rank of 513 in CodeChef Starters 244 contest.',
+    title: 'Global Rank 248 — CodeChef Starters 251',
+    detail: 'Achieved a global rank of 248 in CodeChef Starters 251 contest.',
     icon: Flag,
   },
 ];

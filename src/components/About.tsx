@@ -4,7 +4,7 @@ import { MapPin, GraduationCap, Code, Trophy, Award } from 'lucide-react';
 const stats = [
   { value: 'Specialist', label: 'Codeforces (Max 1467)', icon: Trophy },
   { value: '300+', label: 'Problems Solved', icon: Code },
-  { value: '3★', label: 'CodeChef (Max 1639)', icon: Award },
+  { value: '3★', label: 'CodeChef (Max 1706)', icon: Award },
   { value: '98.67%', label: 'JEE Main Percentile', icon: GraduationCap },
 ];
 
@@ -38,7 +38,7 @@ export default function About() {
               building real-world projects like CareerPilot AI, an AI-powered placement preparation platform.
             </p>
             <p className="text-[#808080] text-base leading-relaxed mb-8">
-              I actively compete on Codeforces and CodeChef, having solved 200+ DSA problems across platforms. I
+              I actively compete on Codeforces and CodeChef, having solved 300+ DSA problems across platforms. I
               enjoy building full-stack applications with React, Node.js, and AI tools like LangChain.
             </p>
 
