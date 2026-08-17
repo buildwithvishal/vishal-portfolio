@@ -5,7 +5,7 @@ const platforms = [
   {
     name: 'Codeforces',
     handle: 'vishalwillhandle',
-    rating: '1467',
+    rating: '1548',
     rank: 'Specialist (Max)',
     href: 'https://codeforces.com/profile/vishalwillhandle',
     icon: TrendingUp,
@@ -40,7 +40,7 @@ const platforms = [
 const achievements = [
   {
     title: 'Codeforces Specialist',
-    detail: 'Achieved Specialist rank with a maximum rating of 1467 on Codeforces.',
+    detail: 'Achieved Specialist rank with a maximum rating of 1548 on Codeforces.',
     icon: Award,
   },
   {

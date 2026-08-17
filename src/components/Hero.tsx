@@ -106,7 +106,7 @@ export default function Hero() {
           className="text-[#808080] text-base md:text-lg max-w-2xl mx-auto mb-10 leading-relaxed animate-fade-in opacity-0"
           style={{ animationDelay: '0.7s', animationFillMode: 'forwards' }}
         >
-           B.Tech CSE & AI @ IIIT Bhopal · Codeforces Specialist (1467)
+           B.Tech CSE & AI @ IIIT Bhopal · Codeforces Specialist (1548)
           <br />
           · CodeChef 3★ (1706) · 300+ DSA Problems
         </p>
